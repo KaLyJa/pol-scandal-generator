@@ -1,14 +1,10 @@
 #include <iostream>
-#include <functional>
-#include <thread>
-#include <chrono>
 #include <string>
 using std::cout;
 using std::cin;
 using std::string;
-using namespace std::chrono_literals;
 
-//this is clearly just a joke. also i just ripped the includes and whatnot from another project. some aren't even necessary.
+//this is clearly just a joke
 
 void program();
 
