@@ -8,6 +8,8 @@ using std::cin;
 using std::string;
 using namespace std::chrono_literals;
 
+//this is clearly just a joke. also i just ripped the includes and whatnot from another project. some aren't even necessary.
+
 void program();
 
 int main(){
